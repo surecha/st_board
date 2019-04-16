@@ -6,10 +6,9 @@
 <meta charset="EUC-KR">
 <title>Insert title here</title>
 </head>
-1111
-2222
-3333*3
 <body>
-
+c1111
+c2222
+c3333
 </body>
 </html>
